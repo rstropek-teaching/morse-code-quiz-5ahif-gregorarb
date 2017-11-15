@@ -1,0 +1,18 @@
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.deps.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.csprojResolveAssemblyReference.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.csproj.CoreCompileInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.AssemblyInfoInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.AssemblyInfo.cs
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.deps.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.csprojResolveAssemblyReference.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.csproj.CoreCompileInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.AssemblyInfoInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.AssemblyInfo.cs
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.Library.pdb

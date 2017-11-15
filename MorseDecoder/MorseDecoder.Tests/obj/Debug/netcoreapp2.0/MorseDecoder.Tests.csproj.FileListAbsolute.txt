@@ -1,0 +1,32 @@
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.csprojResolveAssemblyReference.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.csproj.CoreCompileInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.AssemblyInfoInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.AssemblyInfo.cs
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.deps.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.runtimeconfig.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.runtimeconfig.dev.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.pdb
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.pdb
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.deps.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.runtimeconfig.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.runtimeconfig.dev.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Tests.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.csprojResolveAssemblyReference.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.csproj.CoreCompileInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.AssemblyInfoInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.AssemblyInfo.cs
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Tests\obj\Debug\netcoreapp2.0\MorseDecoder.Tests.pdb

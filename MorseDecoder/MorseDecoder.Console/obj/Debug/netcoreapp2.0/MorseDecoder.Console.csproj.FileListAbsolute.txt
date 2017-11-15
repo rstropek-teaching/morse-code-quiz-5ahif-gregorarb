@@ -1,0 +1,26 @@
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.deps.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.runtimeconfig.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.runtimeconfig.dev.json
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.pdb
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.csprojResolveAssemblyReference.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.csproj.CoreCompileInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.AssemblyInfoInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.AssemblyInfo.cs
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.dll
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.deps.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.runtimeconfig.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.runtimeconfig.dev.json
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Console.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Library.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\bin\Debug\netcoreapp2.0\MorseDecoder.Library.pdb
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.csprojResolveAssemblyReference.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.csproj.CoreCompileInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.AssemblyInfoInputs.cache
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.AssemblyInfo.cs
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.dll
+D:\Gregor\Dokumente\5AHIF\C#\Projects\Morse_Quiz\MorseDecoder\MorseDecoder.Console\obj\Debug\netcoreapp2.0\MorseDecoder.Console.pdb

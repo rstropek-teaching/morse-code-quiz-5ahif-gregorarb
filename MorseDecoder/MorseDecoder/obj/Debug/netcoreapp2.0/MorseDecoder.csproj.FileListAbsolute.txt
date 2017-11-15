@@ -1,0 +1,4 @@
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.csprojResolveAssemblyReference.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.csproj.CoreCompileInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.AssemblyInfoInputs.cache
+d:\Gregor\Dokumente\Visual Studio 2017\Projects\MorseDecoder\MorseDecoder\obj\Debug\netcoreapp2.0\MorseDecoder.AssemblyInfo.cs
